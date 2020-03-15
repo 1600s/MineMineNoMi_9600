@@ -43,7 +43,7 @@ public class DevilFruitsHelper
 	
 	public static String[] flyingFruits = new String[]
 	{
-		"gasugasu", "sunasuna", "mokumoku"
+		"gasugasu", "sunasuna", "mokumoku" // Test
 	};
 	
 	public static Block[] nonBreakableBlocks = new Block[] { Blocks.bedrock, ListMisc.OpeMid, ListMisc.Ope, ListMisc.StringMid, ListMisc.StringWall };
