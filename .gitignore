@@ -1,0 +1,11 @@
+
+java/version.txt
+java/earlyaccess.txt
+out/
+gradle/
+eclipse/
+.idea/
+.gradle/
+build.gradle
+gradlew
+gradlew.bat
